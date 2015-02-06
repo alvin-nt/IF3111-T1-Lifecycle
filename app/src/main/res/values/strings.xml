@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">IF3111-T1-Lifecycle</string>
+    <string name="app_name">Lifecycle Tutorial</string>
     <string name="hello_world">Hello world!</string>
+    <string name="hello_world2">Hello, world! Again!</string>
     <string name="action_settings">Settings</string>
-
+    <string name="title_activity_second">Spinner Activity</string>
+    <string-array name="operating_systems">
+        <item>Ubuntu</item>
+        <item>Windows Phone</item>
+        <item>iOS</item>
+        <item>Android</item>
+        <item>Tizen</item>
+    </string-array>
 </resources>
