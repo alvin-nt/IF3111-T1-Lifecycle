@@ -1,0 +1,1 @@
+include ':intents-explicit', ':intents-implicit', ':intent-imagepick'
