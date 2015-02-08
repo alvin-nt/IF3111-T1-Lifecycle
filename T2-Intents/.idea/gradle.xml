@@ -8,9 +8,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/intent-imagepick" />
             <option value="$PROJECT_DIR$/intents-explicit" />
-            <option value="$PROJECT_DIR$/intents-implicit" />
+            <option value="$PROJECT_DIR$/intents-imagepick" />
+            <option value="$PROJECT_DIR$/intents-implicit-browserfilter" />
           </set>
         </option>
       </GradleProjectSettings>
