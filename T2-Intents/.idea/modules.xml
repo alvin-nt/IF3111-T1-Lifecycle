@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/T2-Intents.iml" filepath="$PROJECT_DIR$/T2-Intents.iml" />
       <module fileurl="file://$PROJECT_DIR$/intents-explicit/intents-explicit.iml" filepath="$PROJECT_DIR$/intents-explicit/intents-explicit.iml" />
       <module fileurl="file://$PROJECT_DIR$/intents-imagepick/intents-imagepick.iml" filepath="$PROJECT_DIR$/intents-imagepick/intents-imagepick.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intents-implicit/intents-implicit.iml" filepath="$PROJECT_DIR$/intents-implicit/intents-implicit.iml" />
       <module fileurl="file://$PROJECT_DIR$/intents-implicit-browserfilter/intents-implicit-browserfilter.iml" filepath="$PROJECT_DIR$/intents-implicit-browserfilter/intents-implicit-browserfilter.iml" />
     </modules>
   </component>

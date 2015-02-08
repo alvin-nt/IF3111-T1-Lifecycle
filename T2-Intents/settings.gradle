@@ -1,1 +1,1 @@
-include ':intents-explicit', ':intents-implicit-browserfilter', ':intents-imagepick'
+include ':intents-explicit', ':intents-implicit-browserfilter', ':intents-imagepick', ':intents-implicit'
